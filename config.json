@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvync",
+        "uuid": 2332122,
+        "checksum": "5a5h3j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
